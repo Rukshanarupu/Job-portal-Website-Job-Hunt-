@@ -1,0 +1,26 @@
+[
+    { 
+        "id": 1,
+        "logo":"https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Icons/accounts%201.png",
+        "category": "Finance & Account", 
+        "availability": 300 
+    },
+    { 
+        "id": 2,
+        "logo":"https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Icons/business%201.png",
+        "category": "Creative Design", 
+        "availability": 200
+    },
+    { 
+        "id": 3,
+        "logo":"https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Icons/social-media%201.png",
+        "category": "Marketing & Sales", 
+        "availability": 150 
+    },
+    { 
+        "id": 4,
+        "logo":"https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Icons/chip%201.png",
+        "category": "Engineering Job", 
+        "availability": 224 
+    }
+  ]

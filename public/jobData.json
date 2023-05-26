@@ -1,0 +1,106 @@
+[
+  {
+    "id": 1111,
+    "company_logo": "https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Logo/google-1-1%201.png",
+    "job_title": "Software Engineer",
+    "company_name": "Google LLC",
+    "remote_or_onsite": "Remote",
+    "location": "San Francisco, CA",
+    "fulltime_or_partTime": "Full-time",
+    "salary": "$1000,00 - $120,000",
+    "job_description": "We are seeking a skilled software engineer to develop and maintain software solutions. The ideal candidate will have experience in web development using modern JavaScript frameworks and a passion for creating high-quality, scalable software.",
+    "job_responsibility": "Design, develop, and maintain software applications; Write well-designed, testable, and efficient code; Participate in code reviews; Troubleshoot and debug applications; Collaborate with cross-functional teams to identify and solve complex problems.",
+    "educational_requirements": "Bachelor's degree in Computer Science or related field",
+    "experiences": "3+ years of experience in software development",
+    "phone":  "+1 123-456-7890",
+    "email": "jobs@llc.com"
+    
+  },
+  {
+    "id": 2222,
+    "company_logo": "https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Logo/tesla-9%201.png",
+    "job_title": "Graphic Designer",
+    "company_name": "Tesla",
+    "remote_or_onsite": "Onsite",
+    "location": "New York",
+    "fulltime_or_partTime": "Part-time",
+    "salary": "$40 - $50 per hour",
+    "job_description": "We are seeking a creative graphic designer to develop visual concepts and design materials for various applications. You will work on a variety of projects, including marketing materials, websites, and social media graphics.",
+    "job_responsibility": "Develop visual concepts and design materials; Create graphics for various applications; Collaborate with cross-functional teams to identify and solve design problems; Present designs and concepts to stakeholders.",
+    "educational_requirements": "Bachelor's degree in Graphic Design or related field",
+    "experiences": "2+ years of experience in graphic design",
+    "phone": "+1 234-567-8901",
+      "email": "jobs@tesla.com"
+  },
+  {
+    "id": 3333,
+    "company_logo": "https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/company/capital.png",
+    "job_title": "Product Manager",
+    "company_name": "KB Capital",
+    "remote_or_onsite": "Onsite",
+    "location": "New York, NY",
+    "fulltime_or_partTime": "Full-time",
+    "salary": "$130,000 - $160,000",
+    "job_description": "XYZ Corp. is seeking a product manager to help us build world-class products for our customers. The ideal candidate will have a passion for user experience and a track record of shipping successful products.",
+    "job_responsibility": "Responsibilities include defining product requirements, working closely with engineering teams to ensure successful product launches, and analyzing product performance data.",
+    "educational_requirements": "Bachelor's or Master's degree in a related field",
+    "experiences": "5+ years of experience in product management",
+    "phone": "(555) 555-1234",
+      "email": "jobs@kbc.com"
+    
+  },
+  {
+    "id": 4444,
+    "company_logo": "https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Logo/pngwing-com-1.png",
+    "job_title": "Marketing Manager",
+    "company_name": "MicroSoft",
+    "remote_or_onsite": "Remote",
+    "location": "New York, NY",
+    "fulltime_or_partTime": "Full-time",
+    "salary": "$80,000 - $100,000",
+    "job_description": "We're seeking a talented marketing manager to join our team and help drive growth for our brand.",
+    "job_responsibility": "- Develop and implement marketing strategies\n- Manage and execute campaigns across multiple channels\n- Analyze data and provide insights to inform marketing decisions\n- Collaborate with cross-functional teams to achieve business goals\n- Manage budgets and allocate resources effectively",
+    "educational_requirements": "Bachelor's or Master's degree in Marketing or related field",
+    "experiences": "5+ years of experience in marketing management",
+    "phone": "(123) 456-7890",
+      "email": "jobs@icrosoft.com"
+    
+    },
+    {
+      "id": 5555,
+      "company_logo": "https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Logo/netflix-4%201.png",
+      "job_title": "Data Analyst",
+      "company_name": "Netflix",
+      "remote_or_onsite": "Onsite",
+      "location": "San Francisco",
+      "fulltime_or_partTime": "Part-time",
+      "salary": "$60 - $70 per hour",
+      "job_description": "We are seeking a data analyst to collect, process, and perform statistical analyses on large datasets. You will work with cross-functional teams to identify and solve complex data-related problems.",
+      "job_responsibility": "Collect and process data; Perform statistical analyses; Create visualizations and reports; Collaborate with cross-functional teams to identify and solve complex data-related problems.",
+      "educational_requirements": "Bachelor's degree in Statistics, Mathematics, Computer Science or related field",
+      "experiences": "3+ years of experience in data analysis",
+      "phone": "+1 345-678-9012",
+        "email": "jobs@123net.com"
+      
+    },
+    {
+    "id": 6666,
+    "company_logo": "https://raw.githubusercontent.com/Rukshanarupu/assignment-image-link/main/Assignment-9-img/Logo/pngwing-com-2.png",
+    "job_title": "Marketing Specialist",
+    "company_name": "Amazon",
+    "remote_or_onsite": "Onsite",
+    "location": "New York, NY",
+    "fulltime_or_partTime": "Full-time",
+    "salary": "$70,000 - $80,000",
+    "job_description": "123 Industries is seeking a creative and analytical marketing specialist to help us promote our products and services.",
+    "job_responsibility": "Develop and execute marketing campaigns across various channels, such as email, social media, and events.",
+    "educational_requirements": "Bachelor's degree in Marketing or related field.",
+    "experiences": "2+ years of experience in marketing or related field.",
+    "phone": "555-555-1234",
+      "email": "jobs@amazon.com"
+    
+  }
+]
+    
+          
+  

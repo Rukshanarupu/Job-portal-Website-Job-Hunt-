@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.my-btn{
+    @apply bg-gradient-to-r from-indigo-500 via-indigo-400 to-violet-400 text-white border-0 
+}
+
+.active{
+    @apply font-medium tracking-wide text-gray-900 transition-colors duration-200 hover:bg-indigo-400 bg-violet-400
+}
+
+.default{
+    @apply font-medium tracking-wide text-gray-700 transition-colors duration-200 hover:text-violet-600
+}
+
+
+
